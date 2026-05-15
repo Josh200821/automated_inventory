@@ -1,1 +1,2 @@
 # AICS
+# automated_inventory
