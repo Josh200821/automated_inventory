@@ -1,0 +1,16 @@
+# System files
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Junk folders
+rubbish1/
+
+# HTML exports / local pages
+*.html
+
+# Environment
+.env
+venv/
